@@ -1,1 +1,1 @@
-echo ("hello this is stage 3")
+print ("hello this is stage 3")
